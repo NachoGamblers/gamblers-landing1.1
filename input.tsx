@@ -1,0 +1,1 @@
+export function Input({ placeholder, className }: any) { return <input placeholder={placeholder} className={className} />; }
